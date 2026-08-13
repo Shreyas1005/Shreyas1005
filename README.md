@@ -30,6 +30,4 @@ Continuously strengthening my skills in **advanced SQL, Power BI, DAX, Python, a
 
 ### 📫 Connect With Me
 
-### 📫 Connect With Me
-
 Currently seeking opportunities as a **Data Analyst**, bringing **2+ years of professional experience** across business analysis and data analytics, with hands-on expertise in **SQL, Power BI, Python, and data visualization**.
