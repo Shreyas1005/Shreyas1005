@@ -1,6 +1,6 @@
 # Hi, I'm Shreyas 👋
 
-### Business Analyst | Data Analyst | Power BI | SQL | Python
+### Data Analyst | Power BI | SQL | Python
 
 Currently working at **ICEICO Technologies Pvt. Ltd.** as a **Business Analyst**, with **2+ years of professional experience** working across business analysis and data analytics.
 
